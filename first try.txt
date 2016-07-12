@@ -1,1 +1,2 @@
-This is my first try on git
+This is my first try on git 
+now added more stuff
