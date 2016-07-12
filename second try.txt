@@ -1,3 +1,7 @@
 tried again added to the branch
 
+<<<<<<< HEAD
 anotherconflict
+=======
+a little conflict
+>>>>>>> conflict_branch
